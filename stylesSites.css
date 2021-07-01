@@ -126,6 +126,19 @@ nav {
   margin-top: 20px;
 }
 
+.PrecioConatiner {
+  display: flex;
+  justify-content: center;
+}
+
+.precio {
+  width: 200px;
+  text-align: center;
+  border: 2px solid #4aa6ff;
+  border-radius: 12px;
+  padding: 15px;
+}
+
 .mapa {
   padding: 20px;
 }

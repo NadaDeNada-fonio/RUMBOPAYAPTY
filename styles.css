@@ -237,6 +237,15 @@ nav {
   background-color: rgb(8, 94, 223);
 }
 
+.precioCard {
+  padding: 0;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+
 /* seccion 4 */
 
 .section4PrincipalContainer {
